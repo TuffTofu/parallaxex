@@ -85,9 +85,12 @@ body, html {
 	background-color: transparent;
 }
 
-@media(max-width: 568px) {
+@media(max-width: 760px) {
 	.pimg1, .pimg2, .pimg3 {
-		background-attachment: scroll !important;
+		background-attachment: scroll;
+		background-position: center;
+		max-height: 1334px;
+		max-width: 750px;
 
 	}
 }
