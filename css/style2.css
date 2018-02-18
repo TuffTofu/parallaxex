@@ -70,7 +70,7 @@ body, html {
 	width: 100%;
 	text-align: center;
 	color: #fff;
-	font-size: 27px;
+	font-size: 40px;
 	letter-spacing: 8px;
 	text-transform: uppercase;
 }
@@ -89,7 +89,10 @@ body, html {
 	.pimg1, .pimg2, .pimg3{
 		background-attachment: scroll;
 		/*background-image: url('https://media.idownloadblog.com/wp-content/uploads/2017/06/iPad-Pro-10.5-Demo-Wallpaper-6.jpg');*/
-		background-position: center;
+		
 
+	}
+	.ptext {
+		font-size: 150%;
 	}
 }
